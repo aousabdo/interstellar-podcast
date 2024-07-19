@@ -1,0 +1,96 @@
+#-------------------------------
+# General Site Settings
+title: The AI And Science Podcast
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Explore the fascinating world of AI and its impact on Science with Dr. Aous A. Abdo
+
+baseurl: "/ai-and-science-podcast"
+url: "https://aousabdo.github.io"
+twitter_username: aousabdo
+github_username:  aousabdo
+
+#-------------------------------
+# Author Settings
+author:
+  name: Dr. Aous A. Abdo
+  avatar: '/images/author-profile-square.png'
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  title: The AI And Science Podcast
+  description: Explore the fascinating world of AI and its impact on Science with Dr. Aous A. Abdo
+  image: '/images/podcast-cover-transparency-adjusted.jpeg'
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: aousabdo@gmail.com # Add your email for contact form
+  description: Have questions about AI and/or Science? Want to suggest a topic for the next episode? Use this contact form to get in touch with Dr. Aous Abdo. I'd love to hear from you and explore new ideas for future episodes!
+
+# NOTE
+# Norlin theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Footer section
+# Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
+# Other icons can be found at https://ionicons.com/v4/
+social:
+- {icon: "ion-logo-twitter", link: "https://twitter.com/aousabdo"}
+- {icon: "ion-logo-youtube", link: "https://www.youtube.com/@aousabdo7266"}
+- {icon: "ion-logo-github", link: "https://github.com/aousabdo"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/aous-a-abdo-84357b303/"}
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: aousabdo-github-io # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: disable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+
+#-------------------------------
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/tagging
+
+kramdown:
+  parse_block_html: true
+
+paginate: 8
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+sass:
+  sass_dir: _sass
+  style: compressed
