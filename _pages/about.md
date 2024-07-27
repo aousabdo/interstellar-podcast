@@ -13,18 +13,25 @@ My passion for science, particularly astrophysics and technology, was a constant
 
 That drive led me to pursue a Ph.D. in Physics from Michigan State University. It was a long journey from that boy with handmade planes to leading research teams at NASA, but the wonder and curiosity remained the same. Whether I was uncovering the secrets of gamma-ray sources or pushing the boundaries of AI applications in defense and national security, I've always felt like that kid, eyes wide with possibilities.
 
+<br>
+
 ![Dr. Aous A. Abdo on the Parkes telescope in Australia]({{site.baseurl}}/images/FC157C06-EE04-4771-A857-6A8B0124D365.jpeg)
 *Standing atop the Parkes telescope in Australia, I felt as close to fulfilling my childhood dreams as ever*
 
 One of my proudest achievements was being the first to discover Einstein rings in gamma rays—a form of gravitational lensing—using NASA's Fermi Gamma-ray Space Telescope. This discovery opened up new avenues for studying the cosmos and testing Einstein's theory of general relativity in extreme conditions.
 
+<br>
+
 ## Notable Research: The B1259 Binary System
 
 Another exciting chapter in my career was our work on the B1259 binary system. In 2010, I assembled a team of world-renowned scientists to observe the collision of two stars in this system. This massive undertaking put me in command of major space telescopes including Fermi, Swift, Hubble, and Suzaku, as well as numerous ground-based observatories. We utilized the Parkes telescope in Australia, the Australia Telescope Compact Array in Narrabri, and many others across the globe.
 
+<br>
 
 ![PSR B1259-63 Discovery]({{site.baseurl}}/images/b1259-63_diagram_new.webp)
 *The B1259-63 binary system, a cosmic dance of extraordinary proportions. Credit: NASA's Goddard Space Flight Center/Francis Reddy*
+
+<br>
 
 Our team's groundbreaking observations led to the discovery of dual gamma-ray flares, significantly advancing our understanding of high-mass binaries. This work garnered significant attention, leading to multiple interviews on radio and television, where I had the opportunity to share our findings with the public through this [NASA interview](https://www.nasa.gov/universe/odd-couple-binary-makes-dual-gamma-ray-flares/){:target="_blank" rel="noopener noreferrer"}.
 
@@ -34,13 +41,16 @@ Curious about the B1259 binary system and its intriguing phenomena? Watch this v
   <iframe src="https://www.youtube.com/embed/W4Bx4s45Xeo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-
+<br><br>
 
 ## Global Impact and Outreach
 
 These experiences have only deepened my love for science and my desire to push the boundaries of our knowledge. Today, as the CEO of Analytica Data Science Solutions, I'm exploring new frontiers where AI and astrophysics meet. It's a thrilling time to be at this intersection, watching as machine learning algorithms help us process vast amounts of cosmic data, revealing patterns and phenomena we've never seen before.
 
 My passion for learning continues unabated. I'm always acquiring new skills and reading voraciously, driven by the same curiosity that propelled me as a child. My work has taken me across the globe, from Germany to Australia, igniting the same passion for science in others that I've felt all my life.
+
+![Speaking at a conference]({{site.baseurl}}/images/20170216_182436.jpg)
+*Presenting a groundbreaking recommendation system algorithm to business leaders in Chicago*
 
 Amidst all the cosmic wonders, my greatest joy comes from my family. My wife Linda, an incredibly talented artist, and our three young children keep me grounded and inspired. They remind me daily of the wonder in both the vast universe and in the small, precious moments we share.
 
