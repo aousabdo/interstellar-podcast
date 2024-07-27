@@ -1,0 +1,17 @@
+<div class="col col-4 col-d-6 col-t-12">
+  <div class="widget widget-tag-cloud">
+    <div class="widget__head">
+      <h3 class="widget__title">Explore Tags</h3>
+    </div>
+    <div class="tag__cloud">
+      {% if site.tags.size >= 1 %}
+        <p>Number of tags: {{ site.tags.size }}</p>
+        {% for tag in site.tags %}
+          <a href="{{ site.baseurl }}/tag/{{ tag[0] | slugify: 'pretty' }}/" class="set-{{ tag[1].size }}">{{ tag[0] }} ({{ tag[1].size }})</a>
+        {% endfor %}
+      {% else %}
+        <p>No tags found.</p>
+      {% endif %}
+    </div>
+  </div>
+</div>
