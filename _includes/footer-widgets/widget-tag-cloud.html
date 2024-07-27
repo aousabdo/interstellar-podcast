@@ -5,7 +5,12 @@
       <h3 class="widget__title">Explore Tags</h3>
     </div>
     <div class="tag__cloud">
-      {{ site | tag_cloud }}
+      {% assign tags = site.tags | sort %}
+      {% for tag in tags %}
+        <a href="{{ site.baseurl }}/tag/{{ tag[0] | slugify }}/" class="tag__cloud-item">
+          {{ tag[0] }}
+        </a>
+      {% endfor %}
     </div>
   </div>
 </div>
