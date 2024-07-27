@@ -4,8 +4,11 @@ title: Interstellar Podcast
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Explore the fascinating world of AI and its impact on Science with Dr. Aous A. Abdo
 
-baseurl: "/interstellar-podcast"
-url: "https://aousabdo.github.io"
+# baseurl: "/interstellar-podcast"
+# url: "https://aousabdo.github.io"
+
+url: "https://interstellar-podcast.com"
+baseurl: ""
 twitter_username: aousabdo
 github_username:  aousabdo
 
