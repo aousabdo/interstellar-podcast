@@ -2,7 +2,7 @@
 layout: episode
 title:  'Episode 3: Rise of the Machines: Unveiling the Singularity'
 episode_number: 3
-duration: "coming soon"
+duration: "39 minutes"
 preview_audio: "/audio/episode-3-preview.mp3"
 full_episode_link: "https://open.spotify.com/episode/1kBYVdTlTVuTkzN7MqSAsW?si=H8suk_wHSXCPocS2ifNqbw"
 spotify_link: https://open.spotify.com/episode/1kBYVdTlTVuTkzN7MqSAsW?si=H8suk_wHSXCPocS2ifNqbw
