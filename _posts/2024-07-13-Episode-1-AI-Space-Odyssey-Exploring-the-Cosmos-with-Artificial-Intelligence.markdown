@@ -16,7 +16,7 @@ description: Journey through the cosmos as we explore how artificial intelligenc
 
 ---
 
-Welcome to the AI and Science Podcast, your guide through the frontiers of technology and discovery! 
+Welcome to the Interstellar Podcast, your guide through the frontiers of technology and discovery! 
 
 In this premiere episode, "AI Space Odyssey: Exploring the Cosmos with Artificial Intelligence," we delve into the exciting intersection of artificial intelligence and our quest to understand the cosmos. 
 

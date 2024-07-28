@@ -1,20 +1,20 @@
 [
   
     {
-      "title"    : "Episode 4: AI and the Search for Extraterrestrial Life",
-      "category" : "",
-      "tags"     : "AI, Space, Life, Apocalypse",
-      "url"      : "/interstellar-podcast/2024/07/18/Episode-4-AI-and-the-Search-for-Extraterrestrial-Life/",
-      "date"     : "July 18, 2024",
-      "content"  : "Coming Soon"
-    } ,
-  
-    {
       "title"    : "Episode 3: Rise of the Machines: Unveiling the Singularity",
       "category" : "",
       "tags"     : "AI, Space, Life, Apocalypse",
-      "url"      : "/interstellar-podcast/2024/07/17/Episode-3-Rise-of-the-Machines-Unveiling-the-Singularity/",
-      "date"     : "July 17, 2024",
+      "url"      : "/2024/07/27/Episode-3-Rise-of-the-Machines-Unveiling-the-Singularity/",
+      "date"     : "July 27, 2024",
+      "content"  : "Welcome to the Interstellar Podcast, where we explore the frontiers of science and technology!In this thrilling episode, “Rise of the Machines: Unveiling the Singularity,” we take you on an exhilarating journey into the future of Artificial Intelligence. Brace yourselves as we delve into the realm of Artificial General Intelligence (AGI) and Artificial Superintelligence (ASI), concepts that were once confined to science fiction but are now rapidly approaching reality.Key Topics We’ll Explore:      The Path to AGI: Trace the evolution of AI from narrow applications to the cusp of human-level intelligence. We’ll discuss milestones like the Turing Test and recent breakthroughs that are pushing the boundaries of what machines can do.        Blurring Lines: Imagine conversing with an AI so advanced that it’s indistinguishable from a human. We’ll examine the ethical and philosophical implications of creating true artificial consciousness.        The Singularity Approaches: Dive into the concept of the technological singularity – a hypothetical future point where AI surpasses human intelligence, leading to unforeseeable changes in civilization.        Potential and Peril: Explore how superintelligent AI could solve humanity’s greatest challenges, from curing diseases to reversing climate change. But we’ll also confront the existential risks and the need for careful development.        Preparing for the Future: Discuss how society, economics, and even what it means to be human might transform in a post-singularity world. Are we ready for this paradigm shift?  Join us as we navigate the fascinating and sometimes unsettling landscape of advanced AI. From the promise of unprecedented problem-solving capabilities to the potential pitfalls of creating an intelligence beyond our control, this episode will challenge your perceptions and spark your imagination.The AI revolution isn’t a distant future – it’s unfolding now. Tune in to “Rise of the Machines: Unveiling the Singularity” and prepare to have your mind expanded!Don’t miss this captivating exploration of our potential AI-driven future. Subscribe now and be part of the conversation that’s shaping tomorrow!"
+    } ,
+  
+    {
+      "title"    : "Episode 4: AI and the Search for Extraterrestrial Life",
+      "category" : "",
+      "tags"     : "AI, Space, Life, Apocalypse",
+      "url"      : "/2024/07/18/Episode-4-AI-and-the-Search-for-Extraterrestrial-Life/",
+      "date"     : "July 18, 2024",
       "content"  : "Coming Soon"
     } ,
   
@@ -22,7 +22,7 @@
       "title"    : "Episode 2: Cosmic Sweet Spot: Exploring the Goldilocks Zone",
       "category" : "",
       "tags"     : "AI, Space, Life",
-      "url"      : "/interstellar-podcast/2024/07/15/Episode-2-Cosmic-Sweet-Spot-Exploring-the-Goldilocks-Zone-copy/",
+      "url"      : "/2024/07/15/Episode-2-Cosmic-Sweet-Spot-Exploring-the-Goldilocks-Zone-copy/",
       "date"     : "July 15, 2024",
       "content"  : "Coming Soon"
     } ,
@@ -31,9 +31,9 @@
       "title"    : "Episode 1: AI Space Odyssey: Exploring the Cosmos with Artificial Intelligence",
       "category" : "",
       "tags"     : "AI, Space",
-      "url"      : "/interstellar-podcast/2024/07/13/Episode-1-AI-Space-Odyssey-Exploring-the-Cosmos-with-Artificial-Intelligence/",
+      "url"      : "/2024/07/13/Episode-1-AI-Space-Odyssey-Exploring-the-Cosmos-with-Artificial-Intelligence/",
       "date"     : "July 13, 2024",
-      "content"  : "Welcome to the AI and Science Podcast, your guide through the frontiers of technology and discovery!In this premiere episode, “AI Space Odyssey: Exploring the Cosmos with Artificial Intelligence,” we delve into the exciting intersection of artificial intelligence and our quest to understand the cosmos.Get ready to:  Discover how AI is transforming astronomy: From analyzing vast datasets to identify exoplanets to powering autonomous rovers on Mars, AI is becoming an indispensable tool for astronomers.  Explore the ethical dilemmas of AI in space: As we entrust more decision-making to autonomous systems millions of miles away, how do we ensure they align with human values and scientific goals?  Envision the future of space exploration with AI: From self-replicating probes exploring the unknown to AI-designed spacecraft pushing the limits of engineering, the possibilities are truly mind-boggling.Join us as we embark on this cosmic journey, unraveling the fascinating ways AI is revolutionizing space exploration and prompting us to reimagine our place in the universe."
+      "content"  : "Welcome to the Interstellar Podcast, your guide through the frontiers of technology and discovery!In this premiere episode, “AI Space Odyssey: Exploring the Cosmos with Artificial Intelligence,” we delve into the exciting intersection of artificial intelligence and our quest to understand the cosmos.Get ready to:  Discover how AI is transforming astronomy: From analyzing vast datasets to identify exoplanets to powering autonomous rovers on Mars, AI is becoming an indispensable tool for astronomers.  Explore the ethical dilemmas of AI in space: As we entrust more decision-making to autonomous systems millions of miles away, how do we ensure they align with human values and scientific goals?  Envision the future of space exploration with AI: From self-replicating probes exploring the unknown to AI-designed spacecraft pushing the limits of engineering, the possibilities are truly mind-boggling.Join us as we embark on this cosmic journey, unraveling the fascinating ways AI is revolutionizing space exploration and prompting us to reimagine our place in the universe."
     } 
   
 ]
