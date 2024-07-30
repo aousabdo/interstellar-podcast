@@ -1,26 +1,50 @@
-# Norlin
+# Interstellar Podcast
 
-Norlin is a creative modern theme with a clean design specially created for dark themes lovers.
-
-Norlin theme is fully responsive and looks great on mobile devices and has a beautiful and modern design that is best suited for your personal or corporate blog. You can easily customize the theme by changing the accent colors, the arrangement of the widgets, etc.
+Welcome to the Interstellar Podcast, where we explore the fascinating world of space, science, and technology.
 
 * * *
 
-### Demo
+### About
 
-Check the theme in action [Demo](https://norlin.netlify.app/)
-
-* * *
-
-### Deployment
-
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `bundle exec jekyll serve` to start the Jekyll server.
-
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
-
+Interstellar Podcast is dedicated to bringing you the latest discoveries, insights, and discussions about the cosmos, space exploration, and cutting-edge technology. Join us as we journey through the stars and beyond!
 
 * * *
 
-### Documentation
+### Episodes
 
-Before using the Norlin theme, please read the attached documentation.
+Check out our latest episodes on our [website](https://interstellar-podcast.com/). We cover a wide range of topics, including:
+
+- Space exploration missions
+- Astronomical discoveries
+- Emerging space technologies
+- Interviews with scientists and industry experts
+
+* * *
+
+### How to Listen
+
+You can listen to Interstellar Podcast on:
+
+- Our website
+- [Spotify](https://open.spotify.com/show/6iR3Xetzgu8LVKjPEveetb)
+
+* * *
+
+### Connect With Us
+
+Follow us on social media for the latest updates, behind-the-scenes content, and space-related news:
+
+- [Twitter](https://twitter.com/aousabdo)
+- [YouTube](https://www.youtube.com/@InterstellarPodcast)
+- [GitHub](https://github.com/aousabdo)
+- [LinkedIn](https://www.linkedin.com/in/aous-a-abdo-84357b303/)
+
+* * *
+
+### Contact
+
+Have a question or suggestion for the show? We'd love to hear from you! Visit our [contact page](https://aousabdo.github.io/contact/) to get in touch.
+
+* * *
+
+Thank you for tuning in to Interstellar Podcast. Let's explore the universe together!
