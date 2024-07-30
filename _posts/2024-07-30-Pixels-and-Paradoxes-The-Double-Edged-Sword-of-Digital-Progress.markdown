@@ -20,9 +20,9 @@ Yet, as the sun of prosperity rises on one horizon, an ominous moon ascends on a
 ![Digital Paradox](/images/Pixels-and-Paradoxes-economies.webp)
 *Technology's impact on economic growth and prosperity*
 
-The Internet, often praised as a majestic network of shared knowledge and connection, has ironically transformed into a surface reflecting our innermost insecurities. The once-acclaimed pathfinder of progress, the World Wide Web, is increasingly perceived as a battleground. Here, we find ourselves incessantly striving to meet impossible standards of perfection, prosperity, aesthetics, and joy.
+The Internet, often praised as a majestic network of shared knowledge and connection, has ironically transformed into a surface reflecting our innermost insecurities. The once-acclaimed pathfinder of progress, the World Wide Web, is increasingly perceived as a battleground. Here, we find ourselves striving to meet impossible standards of perfection, prosperity, aesthetics, and joy.
 
-In our era, it has become all too common for our sense of self-worth to hinge on the digital approval of others, as quantified by likes, comments, and shares. Each instant of our existence is scrutinized under the invasive lens of social media, amplifying our imperfections while diminishing our accomplishments. Consequently, we are left grappling with persistent feelings of insecurity and self-doubt, eroding the bedrock of our self-confidence.
+Nowadays, it has become all too common for our sense of self-worth to hinge on the digital approval of others, as quantified by likes, comments, and shares. Each instant of our existence is scrutinized under the invasive lens of social media, amplifying our imperfections while diminishing our accomplishments. Consequently, we are left grappling with persistent feelings of insecurity and self-doubt, eroding the bedrock of our self-confidence.
 
 Furthermore, the Internet’s provision of anonymity has unlocked a devastating whirlwind of cyberbullying and online shaming. The concealed niches of the Web offer sanctuary for anonymous culprits to unleash vitriol, intensifying feelings of vulnerability and triggering profound emotional turmoil.
 
@@ -31,7 +31,7 @@ Furthermore, the Internet’s provision of anonymity has unlocked a devastating 
 
 So, what can be done to untangle this enigma? How can we traverse this digital maze fraught with contradictions? The initial stride, arguably, is to recognize this harsh reality. The Internet is akin to any instrument; it possesses the potential for both harm and benefit. And it is our responsibility to manage it judiciously.
 
-We must cultivate the habit of disconnection, of detaching from the artificial realm and submerging ourselves in the undeniable allure of the real world. Why not opt for a leisurely stroll in the park, lose ourselves in the pages of a physical book, or indulge in heart-to-heart dialogues? Through such actions, we can gradually extricate our minds from the grip of digital intrusion.
+We must practice the habit of disconnection from this digital world, of detaching from the artificial realm and submerging ourselves in the undeniable allure of the real world. Why not go for a leisurely stroll in the park, lose ourselves in the pages of an actual physical book, or indulge in heart-to-heart dialogues? Through such actions, we can gradually extricate our minds from the grip of digital intrusion.
 
 Moreover, let’s foster digital literacy and promote healthy online etiquette. Teach our children, our students, our peers about the impact of their online behavior, about the power and the perils of the Internet. Encourage empathy and respect in online interactions. Remember, the fight against digital toxicity begins at home, in our schools, and within ourselves.
 
