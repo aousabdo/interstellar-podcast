@@ -5,6 +5,7 @@ description: Explore how artificial intelligence is revolutionizing nuclear fusi
 date:   2023-03-23 09:00:00 -0500
 image:  '/images/nuclear_fusion_with_AI_blog.webp'
 tags:   [AI, Energy, Science]
+categories: [blog]
 ---
 
 ## Unleashing the Power of Fusion: The Role of AI in Harnessing the Ultimate Energy Source

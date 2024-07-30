@@ -9,6 +9,7 @@ spotify_link: https://open.spotify.com/episode/1kBYVdTlTVuTkzN7MqSAsW?si=H8suk_w
 soundcloud_link: https://soundcloud.com/the-interstellar-podcast/episode-3-rise-of-the-machines-unveiling-the-singularity
 amazon_music_link: https://music.amazon.com/podcasts/614ad23c-be85-4dc2-b07b-510266723045/episodes/5ce150d8-d5f5-4bb5-88c2-aad15c5f21b8/episode-3-rise-of-the-machines-unveiling-the-singularity
 date:   2024-07-27 09:00:00 -0500
+categories: [episode]
 image:  '/images/Rise-of-the-Machines-Unveiling-the-Singularity.jpeg'
 tags:   [AI, Space, Life, Apocalypse]
 featured: true

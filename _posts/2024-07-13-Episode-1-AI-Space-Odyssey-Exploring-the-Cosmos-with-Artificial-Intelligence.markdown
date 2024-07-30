@@ -9,6 +9,7 @@ spotify_link: https://open.spotify.com/show/6iR3Xetzgu8LVKjPEveetb
 soundcloud_link: https://soundcloud.com/the-interstellar-podcast/ai-and-science-podcast?si=978d23eacb6f4fe99368617e5a0a37b0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 amazon_music_link: https://music.amazon.com/podcasts/614ad23c-be85-4dc2-b07b-510266723045/episodes/449d2331-cf15-43c3-8522-c3bb1b7550a5/the-ai-and-science-podcast-ai-space-odyssey-exploring-the-cosmos-with-artificial-intelligence
 date:   2024-07-13 09:00:00 -0500
+categories: [episode]
 image:  '/images/episode-1-cover.jpg'
 tags:   [AI, Space]
 featured: true

@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<!-- begin hero -->
+<section class="hero">
+  <div class="hero__inner">
+    <div class="hero__image">
+      <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
+    </div>
+    <div class="hero__content">
+      <h1 class="hero__title">{{page.title}}</h1>
+    </div>
+  </div>
+</section>
+<!-- end hero -->
+
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="container__inner">
+        <div class="row grid">
+          {% for post in site.posts %}
+            {% if post.categories contains 'episode' %}
+              {% include article-content.html %}
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include pagination.html %}
