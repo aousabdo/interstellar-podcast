@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2480 520">
+  <rect width="2480" height="520" fill="#0a0a2a"/>
+  
+  <!-- Background elements -->
+  <circle cx="260" cy="260" r="200" fill="none" stroke="#4a4a8a" stroke-width="2" opacity="0.5"/>
+  <circle cx="260" cy="260" r="150" fill="none" stroke="#6a6aaa" stroke-width="2" opacity="0.5"/>
+  <circle cx="260" cy="260" r="100" fill="none" stroke="#8a8aca" stroke-width="2" opacity="0.5"/>
+  
+  <!-- Logo element on the left -->
+  <circle cx="260" cy="260" r="80" fill="none" stroke="#4a4a8a" stroke-width="4"/>
+  <circle cx="260" cy="260" r="60" fill="none" stroke="#6a6aaa" stroke-width="4"/>
+  <circle cx="260" cy="260" r="40" fill="none" stroke="#8a8aca" stroke-width="4"/>
+  <path d="M220,260 Q240,220 260,260 Q280,300 300,260" fill="none" stroke="#00ffff" stroke-width="6"/>
+  <circle cx="220" cy="260" r="10" fill="#00ffff"/>
+  <circle cx="260" cy="260" r="10" fill="#00ffff"/>
+  <circle cx="300" cy="260" r="10" fill="#00ffff"/>
+  
+  <!-- Wavy lines across the banner -->
+  <path d="M0,400 Q620,300 1240,400 Q1860,500 2480,400" fill="none" stroke="#4a4a8a" stroke-width="2"/>
+  <path d="M0,410 Q620,510 1240,410 Q1860,310 2480,410" fill="none" stroke="#6a6aaa" stroke-width="2"/>
+  <path d="M0,420 Q620,320 1240,420 Q1860,520 2480,420" fill="none" stroke="#8a8aca" stroke-width="2"/>
+  
+  <!-- Text -->
+  <text x="600" y="280" font-family="Arial, sans-serif" font-size="120" fill="#ffffff">Interstellar Podcast</text>
+  <text x="600" y="380" font-family="Arial, sans-serif" font-size="60" fill="#00ffff">Exploring the future with Dr. Aous Abdo</text>
+</svg>
