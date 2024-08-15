@@ -55,8 +55,8 @@ Ready to dive deeper into this fascinating discovery? Tune in to our next episod
 
 References:
 
-- Los Angeles Times. (2024). [Mars study suggests ocean's worth of water may be hiding under surface](https://www.latimes.com/world-nation/story/2024-08-14/new-mars-study-suggests-an-oceans-worth-of-water-may-be-hiding-beneath-the-red-dusty-surface)
-- CNN. (2024). [Oceans of water may be trapped deep beneath the Martian surface](https://www.cnn.com/2024/08/12/science/mars-crust-water-reservoir-insight/index.html)
-- Reuters. (2024). [Martian subsurface harbours oceans of life-giving liquid water](https://www.reuters.com/science/martian-subsurface-harbours-oceans-life-giving-liquid-water-2024-08-13/)
-- Forbes. (2024). [NASA Has Found Oceans Of Water On Mars — But There's A Problem](https://www.forbes.com/sites/jamiecartereurope/2024/08/12/nasa-has-found-oceans-of-water-on-mars---but-theres-a-problem/)
-- Science Daily. (2024). [Scientists find oceans of water on Mars: It's just too deep to tap](https://www.sciencedaily.com/releases/2024/08/240812160244.htm)
+- Los Angeles Times. (2024). <a href="https://www.latimes.com/world-nation/story/2024-08-14/new-mars-study-suggests-an-oceans-worth-of-water-may-be-hiding-beneath-the-red-dusty-surface" target="_blank">Mars study suggests ocean's worth of water may be hiding under surface</a>
+- CNN. (2024). <a href="https://www.cnn.com/2024/08/12/science/mars-crust-water-reservoir-insight/index.html" target="_blank">Oceans of water may be trapped deep beneath the Martian surface</a>
+- Reuters. (2024). <a href="https://www.reuters.com/science/martian-subsurface-harbours-oceans-life-giving-liquid-water-2024-08-13/" target="_blank">Martian subsurface harbours oceans of life-giving liquid water</a>
+- Forbes. (2024). <a href="https://www.forbes.com/sites/jamiecartereurope/2024/08/12/nasa-has-found-oceans-of-water-on-mars---but-theres-a-problem/" target="_blank">NASA Has Found Oceans Of Water On Mars — But There's A Problem</a>
+- Science Daily. (2024). <a href="https://www.sciencedaily.com/releases/2024/08/240812160244.htm" target="_blank">Scientists find oceans of water on Mars: It's just too deep to tap</a>
