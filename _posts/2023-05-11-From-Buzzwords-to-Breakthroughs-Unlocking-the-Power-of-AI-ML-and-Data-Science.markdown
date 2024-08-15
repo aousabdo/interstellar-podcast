@@ -3,7 +3,7 @@ layout: post
 title:  "From Buzzwords to Breakthroughs: Unlocking the Power of AI, ML, and Data Science"
 description: Delve into the transformative world of AI, ML, and Data Science, exploring their real-world applications and impact. Uncover the distinctions between these technologies, their current breakthroughs, and the exciting possibilities they hold for our future. Join us in demystifying the buzzwords and understanding the true power of these revolutionary fields.
 date:   2024-08-11 09:00:00 -0500
-image:  '/images/AI-ML-DS-Blog-Image-1.jpeg'
+image:  '/images/AI-ML-DS-Blog-Header.jpeg'
 tags:   [AI, Science, Technology]
 categories: [blog]
 ---
