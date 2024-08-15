@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "AI Revolutionizes Nuclear Fusion: Path to Unlimited Clean Energy"
-description: "Discover how AI is accelerating nuclear fusion research, bringing us closer to harnessing star power for unlimited clean energy and reshaping our energy future."
-date: 2023-03-23 09:00:00 -0500
-image: '/images/ai-nuclear-fusion-breakthrough.webp'
-tags: [Artificial Intelligence, Nuclear Fusion, Clean Energy, Scientific Breakthrough]
-categories: [blog, science, technology]
+title:  "Unleashing the Power of Fusion: The Role of AI in Harnessing the Ultimate Energy Source"
+description: Explore how artificial intelligence is revolutionizing nuclear fusion research, bringing us closer to unlimited clean energy and reshaping the future of power generation.
+date:   2023-03-23 09:00:00 -0500
+image:  '/images/nuclear_fusion_with_AI_blog.webp'
+tags:   [AI, Energy, Science]
+categories: [blog]
 ---
 
 ## Empowering Fusion: The Role of Artificial Intelligence in Harnessing the Ultimate Energy Source
@@ -16,8 +16,8 @@ Almost all the conflicts and wars of the modern time have something to do with e
 
 But what is Nuclear Fusion, one may ask? Well, simply put, Nuclear fustino is the process of combining atomic nuclei to form a more stable nucleus; in the process, tremendous amounts of energy get released. That is how stars like our own Sun produce energy – by fusing elements like Hydrogen into Helium.
 
-![Nuclear Fusion Process]({{ site.baseurl }}/images/nuclear_fusion.webp)
-*Diagram illustrating the nuclear fusion process, showing hydrogen atoms combining to form helium and release energy.*
+![Nuclear Fusion]({{ site.baseurl }}/images/nuclear_fusion.webp)
+*Nuclear fusion process. Image source: Author's own work.*
 
 Thermonuclear Weapons: A Glimmer of Fusion's Power
 
@@ -26,16 +26,15 @@ Up until December of 2022 the only way we, humans, could achieve nuclear fusion 
 For many years, scientists have been conducting experiments with runaway fusion reactions to obtain net positive energy—energy produced that is greater than the energy put in to start the reaction. If this were replicated and scaled up, it could provide almost limitless clean energy.
 
 ![Thermonuclear Explosion]({{ site.baseurl }}/images/thermo-nuclear_explosion.webp)
-*Visual representation of a thermonuclear explosion, demonstrating the immense power of uncontrolled fusion reactions.*
+*Thermonuclear explosion, showing just how much power is packed into a fusion reaction*
 
 ### Success at Last: Fusion Ignition Achieved
 
 Imagine high-fiving scientists—popping champagne bottles—that's pretty much what happened on December 13, 2022. The researchers at Lawrence Livermore National Laboratory finally cracked the code in **fusion ignition** after decades of trying. It really is big. This large win was heralded by an announcement from the US Department of Energy. It is a scientific breakthrough that could totally revamp how we defend our nation and power our world with clean energy. It feels like we are sitting in a science fiction movie and that protagonist has just taken the giant leap—but it's happening right now.
-
 Thus, the discovery of fusion energy is a massive step toward that goal. The challenges are formidable in achieving sustained nuclear fusion reactions that give out more energy than they consume. Artificial intelligence tools open their power toolbox in many ways to accelerate progress in fusion research and development.
 
 ![Lawrence Livermore National Laboratory]({{ site.baseurl }}/images/Lawrence_Livermore.webp)
-*Lawrence Livermore National Laboratory's National Ignition Facility, where historic fusion ignition was achieved in 2022.*
+*Lawrence Livermore National Laboratory, where fusion ignition was achieved. Artistic depiction.*
 
 ### Taming the Fusion Beast with AI
 
@@ -68,9 +67,9 @@ It is this duality that underlines responsible development and ethical considera
 The next generation should wisely and with foresight harness both fusion and AI so this Promethean fire shines as a beacon on the path of progress, rather than having humanity fall into the abyss of self-destruction.
 
 ![Dual Aspect of Nuclear Fusion]({{ site.baseurl }}/images/daul_aspect_of_nuclear_fusion.webp)
-*Infographic illustrating the dual nature of nuclear fusion: its potential for clean energy production and its origins in weapons technology.*
+*Dual nature of nuclear fusion: destructive power and clean energy potential (Image source: Author's own creation)*
 
 **References:**
 
 * [DOE National Laboratory Makes History by Achieving Fusion Ignition](https://www.energy.gov/articles/doe-national-laboratory-makes-history-achieving-fusion-ignition){:target="_blank"}
-* [International Thermonuclear Experimental Reactor, ITER](https://www.iter.org/){:target="_blank"}
+* [International Thermonuclear Experimental Reactor, ITER](https://www.iter.org/)
