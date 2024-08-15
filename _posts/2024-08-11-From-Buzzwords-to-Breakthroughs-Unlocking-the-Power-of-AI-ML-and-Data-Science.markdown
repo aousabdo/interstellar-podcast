@@ -62,13 +62,13 @@ Join us as we delve further into the exciting possibilities and challenges ahead
 
 
 **References:**
-- Russell, S. J., & Norvig, P. (2010). Artificial Intelligence: A Modern Approach. (on Amazon)
-- Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. Site on MIT
-- James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An Introduction to Statistical Learning. Free Book Here.
-- Dhar, V. (2013). Data science and prediction. Communications of the ACM, 56(12), 64–73
-- Ng, A. (2020). Machine Learning Yearning. deeplearning.ai. Book
-- Brownlee, J. (2016). Machine Learning Mastery. Machine Learning Mastery site
-- The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World. on Amazon
-- Superintelligence Paths, Dangers, Strategies. Book
-- Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction. Free book here
-- Prediction Machines: The Simple Economics of Artificial Intelligence. On Amazon
+- Russell, S. J., & Norvig, P. (2010). Artificial Intelligence: A Modern Approach. <a href="https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597" target="_blank">(on Amazon)</a>
+- Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. <a href="https://mitpress.mit.edu/9780262035613/deep-learning/" target="_blank">Site on MIT</a>
+- James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An Introduction to Statistical Learning. <a href="https://www.statlearning.com/" target="_blank">Free Book Here</a>
+- Dhar, V. (2013). Data science and prediction. Communications of the ACM, 56(12), 64–73. <a href="https://archive.nyu.edu/bitstream/2451/31553/2/Dhar-DataScience.pdf" target="_blank">PDF</a>
+- Ng, A. (2020). Machine Learning Yearning. deeplearning.ai. <a href="https://info.deeplearning.ai/machine-learning-yearning-book" target="_blank">Free Book</a>
+- Brownlee, J. (2016). Machine Learning Mastery. <a href="https://machinelearningmastery.com/" target="_blank">Machine Learning Mastery site</a>
+- Domingos, P. (2015). The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World. <a href="https://www.amazon.com/The-Master-Algorithm-audiobook/dp/B014X01SS0/" target="_blank">Amazon</a>
+- Bostrom, N. (2014). Superintelligence: Paths, Dangers, Strategies. <a href="https://www.amazon.com/Superintelligence-Nick-Bostrom-audiobook/dp/B00LPMFE9Y/" target="_blank">Amazon</a>
+- Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction. <a href="https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf" target="_blank">Free book here</a>
+- Agrawal, A., Gans, J., & Goldfarb, A. (2018). Prediction Machines: The Simple Economics of Artificial Intelligence. <a href="https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670" target="_blank">Amazon</a>
