@@ -30,7 +30,8 @@ For many years, scientists have been conducting experiments with runaway fusion 
 
 ### Success at Last: Fusion Ignition Achieved
 
-Imagine high-fiving scientists—popping champagne bottles—that's pretty much what happened on December 13, 2022. The researchers at Lawrence Livermore National Laboratory finally cracked the code in **fusion ignition** after decades of trying. It really is big. This large win was heralded by an announcement from the US Department of Energy. It is a scientific breakthrough that could totally revamp how we defend our nation and power our world with clean energy. It feels like we are sitting in a science fiction movie and that protagonist has just taken the giant leap—but it's happening right now.
+A dream long in the making, controlled fusion surmounted one of its most daunting hurdles when the US Department of Energy announced on December 13, 2022, that scientists at Lawrence Livermore National Laboratory had achieved **fusion ignition**. This is a landmark scientific breakthrough with implications for advances in national defense and clean power generation.
+
 Thus, the discovery of fusion energy is a massive step toward that goal. The challenges are formidable in achieving sustained nuclear fusion reactions that give out more energy than they consume. Artificial intelligence tools open their power toolbox in many ways to accelerate progress in fusion research and development.
 
 ![Lawrence Livermore National Laboratory]({{ site.baseurl }}/images/Lawrence_Livermore.webp)
