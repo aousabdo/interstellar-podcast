@@ -6,37 +6,31 @@ permalink: /about/
 image: '/images/Aous_and_Paul_2.jpg'
 ---
 
-Welcome to the Interstellar Podcast. I'm Dr. Aous Abdo, and I'm excited to take you on a journey through the cosmos, exploring the fascinating intersection of artificial intelligence and astrophysics. But before we launch into the stars, let me share a bit about the boy who dreamed of flying.
+Welcome to the Interstellar Podcast. I'm Dr. Aous Abdo. I can't wait to take you on a journey through the stars to be amazed at the crossroads of artificial intelligence and astrophysics. But before we take off to the skies, here is a little bit about a little boy who wanted to fly.
 
-From a young age, science wasn't just a subject for me—it was an obsession. I was that kid who didn't quite fit in at school, but who spent countless hours dreaming about flight and tinkering with homemade RC airplanes. With very limited resources, I'd try year after year to bring my designs to life. It wasn't always easy, and there were plenty of crash landings, but each failure only fueled my determination.
+From a very young age, science was for me more than simply a subject. That little kid who never fit in school but spent countless hours dreaming of flight and dinking around with homemade RC planes—that was me. With very little resources, I'd keep trying year after year to bring my designs to life. There wasn't always much success, looking back quite a few crash landings, but that only fueled my desire.
 
-My passion for science, particularly astrophysics and technology, was a constant companion through those early years. While I might not have been the model student in traditional subjects, I knew deep down that one day, I'd find my place among the stars.
+I was born with a childhood passion for science, particularly astrophysics and technology, which followed me throughout my growing years. Even though I might not have been the model student in traditional subjects, I did know somewhere within that one day I would find my place among the stars.
 
-That drive led me to pursue a Ph.D. in Physics from Michigan State University. It was a long journey from that boy with handmade planes to leading research teams at NASA, but the wonder and curiosity remained the same. Whether I was uncovering the secrets of gamma-ray sources or pushing the boundaries of AI applications in defense and national security, I've always felt like that kid, eyes wide with possibilities.
+That drive led me to pursue a Ph.D. in Physics at Michigan State University, taking me to the far end of that boy with his handmade planes and head of NASA research teams. Though the wonder and curiosity remain undiminished, over a distance that can span from a boy and his handmade planes to heading up NASA research teams, whether I was working on unraveling the mysteries of gamma-ray sources or breaking new ground in AI technologies built for defense and national security, I have always felt like that wonder-filled kid.
 
 <br>
-
+!
 ![Dr. Aous A. Abdo on the Parkes telescope in Australia]({{site.baseurl}}/images/FC157C06-EE04-4771-A857-6A8B0124D365.jpeg)
 *Standing atop the Parkes telescope in Australia, I felt as close to fulfilling my childhood dreams as ever*
 
-One of my proudest achievements was being the first to discover Einstein rings in gamma rays—a form of gravitational lensing—using NASA's Fermi Gamma-ray Space Telescope. This discovery opened up new avenues for studying the cosmos and testing Einstein's theory of general relativity in extreme conditions.
-
-<br>
+Repeatedly, identifying Einstein rings in gamma rays, a type of gravitational lens, using NASA's Fermi Gamma-ray Space Telescope, is one of my proudest achievements. That discovery enabled brand new ways of exploration and testing of Einstein's theory of general relativity in extreme conditions across the cosmos.
 
 ## Notable Research: The B1259 Binary System
 
-Another exciting chapter in my career was our work on the B1259 binary system. In 2010, I assembled a team of world-renowned scientists to observe the collision of two stars in this system. This massive undertaking put me in command of major space telescopes including Fermi, Swift, Hubble, and Suzaku, as well as numerous ground-based observatories. We utilized the Parkes telescope in Australia, the Australia Telescope Compact Array in Narrabri, and many others across the globe.
+One really exciting chapter of my career was our work on the B1259 binary system. In 2010, I led a team that made the first-ever observation of the collision of two stars in this system, a colossal undertaking that put me in charge of some of the world's preeminent space telescopes, including Fermi, Swift, Hubble, Suzaku, and many ground-based observatories. We utilized the Parkes telescope in Australia, the Australia Telescope Compact Array in Narrabri, among many others across continents.
+* The B1259-63 binary system, a cosmic dance of remarkable proportions. Credit: NASA's Goddard Space Flight Center/Francis Reddy *
 
 <br>
 
-![PSR B1259-63 Discovery]({{site.baseurl}}/images/b1259-63_diagram_new.webp)
-*The B1259-63 binary system, a cosmic dance of extraordinary proportions. Credit: NASA's Goddard Space Flight Center/Francis Reddy*
+ Our groundbreaking suite of observations uncovered a binary gamma-ray flare — a novel harbinger of high-mass binaries.  This paper, in turn was interesting enough to not only put me all over the radio and TV chiefly but also to be of general interest in bringing the essence of our work to the public in this [NASA interview](https://www.nasa.gov/universe/odd-couple-binary-makes-dual-gamma-ray-flares/){:target="_blank"}.
 
-<br>
-
-Our team's groundbreaking observations led to the discovery of dual gamma-ray flares, significantly advancing our understanding of high-mass binaries. This work garnered significant attention, leading to multiple interviews on radio and television, where I had the opportunity to share our findings with the public through this [NASA interview](https://www.nasa.gov/universe/odd-couple-binary-makes-dual-gamma-ray-flares/){:target="_blank" rel="noopener noreferrer"}.
-
-Curious about the B1259 binary system and its intriguing phenomena? Watch this video for a visual explanation:
+Interested in the B1259 binary system and its fantastic phenomena? For those of you who like a visual explanation, view this video:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/W4Bx4s45Xeo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
@@ -46,28 +40,28 @@ Curious about the B1259 binary system and its intriguing phenomena? Watch this v
 
 ## Global Impact and Outreach
 
-These experiences have only deepened my love for science and my desire to push the boundaries of our knowledge. Today, as the CEO of Analytica Data Science Solutions, I'm exploring new frontiers where AI and astrophysics meet. It's a thrilling time to be at this intersection, watching as machine learning algorithms help us process vast amounts of cosmic data, revealing patterns and phenomena we've never seen before.
+These experiences have only deepened my love for science and my desire to push out the limits of our knowledge. And now, as the CEO of Analytica Data Science Solutions, I am going up to the new shores where artificial intelligence meets astrophysics. The crossroads are exciting, as we see how machine learning algorithms open up an avalanche of cosmic data, unveiling patterns and phenomena previously unseen.
 
-My passion for learning continues unabated. I'm always acquiring new skills and reading voraciously, driven by the same curiosity that propelled me as a child. My work has taken me across the globe, from Germany to Australia, igniting the same passion for science in others that I've felt all my life.
+My thirst for knowledge is unquenchable. I continue to learn something new and read much, with the same thirst that was in childhood. I traveled for work from Germany to Australia, sparking in others the same passion for science that has been driving me my whole life.
 
 ![Speaking at a conference]({{site.baseurl}}/images/20170216_182436.jpg)
 *Presenting a groundbreaking recommendation system algorithm to business leaders in Chicago*
 
-Amidst all the cosmic wonders, my greatest joy comes from my family. My wife Linda, an incredibly talented artist, and our three young children keep me grounded and inspired. They remind me daily of the wonder in both the vast universe and in the small, precious moments we share.
+Of course, of all cosmic wonders, my family is what brings great joy to me: my infinitely talented artist wife, Linda, whose presence keeps me with both feet on the ground and my head in the stars; and our three little ones, who inspire me day and night with wonder in the universe at large and in the small precious moments we share.
 
 ## The Interstellar Podcast: Where AI Meets the Cosmos
 
-This podcast is born from a desire to share these wonders with you—from the marvels of the cosmos to the cutting-edge of AI. In each episode, we'll explore the latest breakthroughs in science and technology, dive into mysterious astrophysical phenomena, and discuss how data science is reshaping our understanding of the universe.
+This podcast is born from the desire to share the wonders—from the marvels of the cosmos down to the leading edge of AI. Each episode will be focused on the hottest breakthroughs in science and technology as they emerge and delve into mysterious astrophysical mysteries, as well as sharing views on how the science of data changes our paradigms of the universe.
 
-I invite you to join me on this cosmic journey. Whether you're a seasoned scientist, a curious student, or someone who's ever looked up at the night sky in awe, there's a place for you here. Together, we'll explore the vastness of space and the limitless potential of human ingenuity.
+Join me as we go through this cosmic adventure. Whether you are a longtime scientist or a curious student, or perhaps simply someone who has looked up to stare at the night sky and feel his heart fill with a sense of wonder, this is where you belong. Together, we will travel the infinite void of space, parallel to the limitless potential of human genius.
 
-For those who want to dive deeper, you can find more of my thoughts on AI and data science on the [Analytica Blog](https://analyticadss.com/blog/){:target="_blank" rel="noopener noreferrer"}. If you're interested in the technical side of my research, check out my [INSPIRE-HEP profile](https://inspirehep.net/authors/1049895){:target="_blank" rel="noopener noreferrer"} profile. And for a comprehensive look at gamma-ray sources, take a look at my book on [Amazon](https://www.amazon.com/DISCOVERY-LOCALIZED-GAMMA-RAY-SOURCES-EMISSION/dp/3836486768){:target="_blank" rel="noopener noreferrer"}.
+And surely, those carrying an interest to take it deeper have my thoughts on AI and data science more posted at the Analytica blog. If you are interested in the technical side of my research, here is my profile on INSPIRE. And here it is—my book on gamma-ray sources, available on Amazon.
 
-Let's embark on this interstellar adventure together. Who knows what we might discover?
+Let's take this interstellar journey together! God knows what we might find.
 
 ## Stay Connected
 
-Stay curious, keep looking up, and I'll see you among the stars.
+So keep looking up and I'll see you among the stars.
 
-To get in touch or learn more about my work, feel free to visit my [Contact Page]({{ site.baseurl }}/contact/). I'm always excited to connect with fellow science enthusiasts, researchers, or anyone curious about the cosmos and AI!
+Feel free to reach out to me or learn more about my work at my [Contact Page]({{ site.baseurl }}/contact/). I'm excited to meet and network with like-minded geeks, researchers, or anyone intrigued by the universe and AI.
 
