@@ -2,7 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/Aous_and_Paul_1_cropped.jpg'
+# image: '/images/Aous_and_Paul_1_cropped.jpg'
+image: '/images/Aous_and_Paul_2.jpg'
 ---
 
 Welcome to the Interstellar Podcast. I'm Dr. Aous Abdo, and I'm excited to take you on a journey through the cosmos, exploring the fascinating intersection of artificial intelligence and astrophysics. But before we launch into the stars, let me share a bit about the boy who dreamed of flying.
