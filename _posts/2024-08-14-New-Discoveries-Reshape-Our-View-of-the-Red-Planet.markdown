@@ -16,6 +16,10 @@ Taken together, new research using data from NASA's Mars InSight lander finds co
 
 A team led by Dr. Vashan Wright of UC San Diego's Scripps Institution of Oceanography used InSight's seismic data to probe the interior of Mars. Using more than 1,300 marsquakes detected during the lander's mission, the researchers applied the technique of seismic tomography—like a CT scan for the planet—to determine composition in the crust and mantle of Mars. They found that this water probably lurks in cracks and pores within rocks 7–12 miles beneath the planet's surface.
 
+
+![Scientific diagram showing the Mars InSight lander](/images/Mars_blog_image_1.jpeg)
+*Artist's conception of a scientific diagram showing the Mars InSight lander on the surface, with seismic waves penetrating deep into the planet (Image credit: Author)*
+
 "This discovery is a game-changer," Dr. Wright says. "It's like finding an oasis in what we thought was a desert planet. The presence of this much water could completely rewrite our understanding of Mars' geological and potentially biological history."
 
 Putting things in perspective, if the discoveries that will be made at the landing site of InSight near the Martian equator are representative of the entire planet, then there could be subsurface water enough to make up a global ocean of about a mile deep. Quite far from the dusty, arid world we have come to know through rover images and orbital observations.
@@ -28,6 +32,12 @@ The problem is that this water is extremely inaccessible. It lies at depths of b
 
 The discovery also compels us to change our cultural perception of Mars. For decades, science fiction has depicted Mars as dry and inhospitable. From H.G. Wells's "War of the Worlds" to more recent fare such as "The Martian" and "The Expanse" series, the lack of water has formed a core challenge for fictional Mars settlers. This new finding presents a more hopeful vision of future Martian exploration and colonization—though still one very much in need of huge technological strides.
 
+
+![Mars Colony Concept](/images/Mars_blog_image_2.jpeg)
+*A futuristic concept art piece showing a potential Mars colony. In the foreground, advanced drilling equipment reaches deep into the Martian crust to access underground water reserves. (Image credit: Author)*
+
+
+
 This, undoubtedly, will play a big role in shaping Mars missions to come in the near future. While NASA's Perseverance rover is on the lookout for signs of ancient microbial life, its successor missions could employ technologies that work deeper into the Martian crust. The challenge of gaining access to this water might spur innovation in drilling and extraction techniques, which could point humans toward a more long-term, sustainable presence on the Red Planet.
 
 Dr. Ellen Stofan, formerly Chief Scientist at NASA, had this to say about what such implications would entail: "This discovery could be a turning point in our Mars exploration strategy. If we can develop the technology to access this water, it could provide the resources needed for long-term human missions to Mars. It's not just about quenching thirst – this water could be used for everything from growing food to producing rocket fuel for return trips to Earth."
@@ -35,6 +45,11 @@ Dr. Ellen Stofan, formerly Chief Scientist at NASA, had this to say about what s
 The more we learn about our celestial neighbor, the closer we get to really knowing whether life could have existed—or still exist—on Mars. Though we didn't find Martians, a lot of liquid water continues to flow beneath the surface, alive and well with the possibility of life.
 
 While the Red Planet has for long captured our imagination, now it captures scientific attention as never before. With new frontiers opening up in the exploration of Mars, the possibilities seem endless, just as they are for newly discovered water reserves beneath its surface.
+
+
+![Mars Comparison](/images/Mars_blog_image_4.jpeg)
+*A side-by-side comparison of Mars as depicted in "The Martian" movie (left, dusty and dry) versus an artist's rendition of what Mars might look like if all its subsurface water was brought to the surface (right). This visual starkly illustrates the paradigm shift in our understanding of Mars' water content. (Image credit: Author)*
+
 
 Ready to dive deeper into this fascinating discovery? Tune in to our next episode of the Interstellar Podcast, where none other than Dr. Vashan Wright joins us in discussing these implications as a result of this ground-breaking research. From the technical difficulties of accessing the water to the potential for Martian life, we'll cover it all. Don't miss out on this cosmic conversation – subscribe now and join us in expanding our knowledge of the universe.
 
