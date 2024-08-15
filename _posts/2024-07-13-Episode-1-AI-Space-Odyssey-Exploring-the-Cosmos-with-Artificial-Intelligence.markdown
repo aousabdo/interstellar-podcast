@@ -11,7 +11,7 @@ amazon_music_link: https://music.amazon.com/podcasts/614ad23c-be85-4dc2-b07b-510
 date:   2024-07-13 09:00:00 -0500
 categories: [episode]
 image:  '/images/episode-1-cover.jpg'
-tags:   [AI, Space]
+tags:   [AI, Space, NASA, Exoplanets]
 featured: true
 description: "Discover how AI is transforming space exploration, from finding exoplanets to powering Mars rovers. Explore the future of cosmic discovery and the ethical challenges of AI in space."
 ---

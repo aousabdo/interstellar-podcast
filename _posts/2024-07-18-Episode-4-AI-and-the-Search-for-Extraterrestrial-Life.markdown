@@ -11,7 +11,7 @@ amazon_music_link: https://music.amazon.com/podcasts/614ad23c-be85-4dc2-b07b-510
 date:   2024-07-18 09:00:00 -0500
 categories: [episode]
 image:  '/images/AI-and-the-Search-for-Extraterrestrial-Life.jpeg'
-tags:   [AI, Space, Life, Apocalypse]
+tags:   [AI, Space, Life, Apocalypse, NASA, Exoplanets]
 featured: true
 description: Uncover the cosmic quest for alien life, powered by AI. From decoding interstellar signals to spotting habitable worlds, join us as we explore how artificial intelligence is transforming our search for extraterrestrial intelligence and reshaping our understanding of life in the universe.
 
