@@ -18,7 +18,7 @@ description: "Discover how AI is transforming space exploration, from finding ex
 
 ## Welcome to the Interstellar Podcast: Where AI Meets the Cosmos
 
-Greetings, space enthusiasts and tech aficionados! Welcome to the premiere episode of the Interstellar Podcast, your gateway to the cutting-edge intersection of artificial intelligence and space exploration. In this episode, "AI Space Odyssey: How Artificial Intelligence is Revolutionizing Cosmic Exploration," we embark on a thrilling journey through the stars, guided by the incredible capabilities of AI.
+Greetings, space enthusiasts and tech aficionados! Welcome to the premiere episode of the Interstellar Podcast, your gateway to the cutting-edge intersection of artificial intelligence and space exploration. In this episode, "AI Space Odyssey: Exploring the Cosmos with Artificial Intelligence," we embark on a thrilling journey through the stars, guided by the incredible capabilities of AI.
 
 ### Episode Highlights: AI's Cosmic Impact
 
@@ -27,16 +27,11 @@ In this 15-minute cosmic voyage, we'll explore:
 1. **AI in Modern Astronomy**
    - How machine learning algorithms are sifting through vast datasets to uncover hidden exoplanets
    - The role of AI in processing images from space telescopes, revealing unprecedented details of distant galaxies
-
-2. **Mars Exploration Revolution**
-   - The autonomy of Mars rovers, powered by AI decision-making systems
-   - How AI is helping scientists analyze Martian soil samples and atmospheric data
-
-3. **Ethical Considerations in Space AI**
+2. **Ethical Considerations in Space AI**
    - Balancing autonomous decision-making with human oversight in space missions
    - Ensuring AI aligns with scientific goals and human values in extraterrestrial environments
 
-4. **The Future of AI in Space Exploration**
+3. **The Future of AI in Space Exploration**
    - Concepts for self-replicating AI probes exploring the far reaches of our galaxy
    - AI-driven spacecraft design pushing the boundaries of interstellar travel
 
@@ -50,7 +45,7 @@ We want to hear from you! Share your thoughts on AI in space exploration:
 - What excites you most about AI's role in astronomy?
 - How do you envision AI shaping our understanding of the cosmos in the next decade?
 
-Leave a comment on our [Spotify page](https://open.spotify.com/show/6iR3Xetzgu8LVKjPEveetb) or tweet us using #Interstellar-podcast.
+Leave a comment below!
 
 ### Stay Tuned
 
