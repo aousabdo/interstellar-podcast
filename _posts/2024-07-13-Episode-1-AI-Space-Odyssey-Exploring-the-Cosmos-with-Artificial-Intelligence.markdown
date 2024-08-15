@@ -1,6 +1,6 @@
 ---
 layout: episode
-title: "AI Space Odyssey: How Artificial Intelligence is Revolutionizing Cosmic Exploration"
+title:  'Episode 1: AI Space Odyssey: Exploring the Cosmos with Artificial Intelligence'
 episode_number: 1
 duration: "15 minutes"
 preview_audio: "/audio/episode-1-preview.mp3"
@@ -8,10 +8,10 @@ full_episode_link: "https://open.spotify.com/show/6iR3Xetzgu8LVKjPEveetb"
 spotify_link: https://open.spotify.com/show/6iR3Xetzgu8LVKjPEveetb
 soundcloud_link: https://soundcloud.com/the-interstellar-podcast/ai-and-science-podcast?si=978d23eacb6f4fe99368617e5a0a37b0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 amazon_music_link: https://music.amazon.com/podcasts/614ad23c-be85-4dc2-b07b-510266723045/episodes/449d2331-cf15-43c3-8522-c3bb1b7550a5/the-ai-and-science-podcast-ai-space-odyssey-exploring-the-cosmos-with-artificial-intelligence
-date: 2024-07-13 09:00:00 -0500
+date:   2024-07-13 09:00:00 -0500
 categories: [episode]
-image: '/images/ai-space-exploration-episode1.jpg'
-tags: [Artificial Intelligence, Space Exploration, Astronomy, Exoplanets, Mars Rovers, Future Technology]
+image:  '/images/episode-1-cover.jpg'
+tags:   [AI, Space]
 featured: true
 description: "Discover how AI is transforming space exploration, from finding exoplanets to powering Mars rovers. Explore the future of cosmic discovery and the ethical challenges of AI in space."
 ---
@@ -50,14 +50,7 @@ We want to hear from you! Share your thoughts on AI in space exploration:
 - What excites you most about AI's role in astronomy?
 - How do you envision AI shaping our understanding of the cosmos in the next decade?
 
-Leave a comment on our [Spotify page](https://open.spotify.com/show/6iR3Xetzgu8LVKjPEveetb) or tweet us using #InterstellarAI.
-
-### Listen Now
-
-Don't miss this fascinating exploration of AI's impact on space discovery. Tune in now on your favorite platform:
-- [Spotify](https://open.spotify.com/show/6iR3Xetzgu8LVKjPEveetb)
-- [SoundCloud](https://soundcloud.com/the-interstellar-podcast/ai-and-science-podcast?si=978d23eacb6f4fe99368617e5a0a37b0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-- [Amazon Music](https://music.amazon.com/podcasts/614ad23c-be85-4dc2-b07b-510266723045/episodes/449d2331-cf15-43c3-8522-c3bb1b7550a5/the-ai-and-science-podcast-ai-space-odyssey-exploring-the-cosmos-with-artificial-intelligence)
+Leave a comment on our [Spotify page](https://open.spotify.com/show/6iR3Xetzgu8LVKjPEveetb) or tweet us using #Interstellar-podcast.
 
 ### Stay Tuned
 
