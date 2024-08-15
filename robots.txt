@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/interstellar-podcast/sitemap.xml
+Sitemap: https://interstellar-podcast.com/sitemap.xml

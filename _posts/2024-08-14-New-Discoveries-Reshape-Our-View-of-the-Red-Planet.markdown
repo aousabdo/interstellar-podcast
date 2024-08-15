@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "The Martian's Hidden Oasis: New Discoveries Reshape Our View of the Red Planet"
-description: Explore groundbreaking discoveries on Mars that reveal vast underground water reserves, challenging our perception of the Red Planet. Uncover how these findings reshape our understanding of Mars' potential for life, future exploration, and colonization. Join us in examining the implications of this hidden Martian oasis and its impact on our view of our celestial neighbor.
-date:   2024-08-14 09:00:00 -0500
-image:  '/images/Mars_blog_header.jpeg'
-tags:   [AI, Science, Technology]
+title: "Hidden Oasis on Mars: New Discoveries Reshape Red Planet Views"
+description: "Explore groundbreaking Mars discoveries revealing vast underground water reserves. Learn how these findings reshape our understanding of Mars' potential for life and future exploration."
+date: 2024-08-14 09:00:00 -0500
+image: '/images/mars-hidden-oasis-header.jpeg'
+tags: [Mars, Water, Space Exploration, NASA]
 categories: [blog]
 ---
 
