@@ -17,16 +17,9 @@ layout: default
         <div class="post-head__box">
         
           <div class="post__meta">
-            <!-- <span class="post__minutes">
-              {% assign words = page.content | number_of_words %}
-              {% if words < 360 %}
-                1 min read
-              {% else %}
-                {{ words | divided_by:180 }} min read
-              {% endif %} -->
-              <span class="post__duration"> {{page.duration}}
-              <time class="post__date"
-                datetime="{{ page.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}{{ page.date | date: date_format }}</time>
+            <span class="post__duration"> {{page.duration}}
+            <time class="post__date"
+              datetime="{{ page.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}{{ page.date | date: date_format }}</time>
             </span>
           </div>
         
@@ -70,10 +63,17 @@ layout: default
         </audio>
     </div>
 
-    <!-- <a href="{{ page.full_episode_link }}" class="full-episode-link" target="_blank">Listen to the Full Episode on Spotify</a> -->
+    <div class="full-episode-player">
+        <h3>Listen to the full episode:</h3>
+        <audio controls>
+            <source src="{{ page.full_audio | relative_url }}" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+        <a href="{{ page.full_audio | relative_url }}" download class="download-link">Download Episode</a>
+    </div>
 
     <div class="cta-section">
-        <h2>Listen to the Full Episode</h2>
+        <h2>Or listen on your favorite platform:</h2>
         <div class="cta-buttons">
           <a href="{{ page.spotify_link }}" class="cta-button spotify" target="_blank">
             Listen on Spotify
@@ -85,7 +85,7 @@ layout: default
             Listen on Amazon Music
           </a>
         </div>
-      </div>
+    </div>
     
     <div class="post__content">
       {{ content }}

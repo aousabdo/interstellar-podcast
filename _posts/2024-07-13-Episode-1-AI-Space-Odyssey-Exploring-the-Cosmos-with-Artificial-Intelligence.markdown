@@ -4,6 +4,7 @@ title:  'Episode 1: AI Space Odyssey: Exploring the Cosmos with Artificial Intel
 episode_number: 1
 duration: "15 minutes"
 preview_audio: "/audio/episode-1-preview.mp3"
+full_audio: "/audio/ai_science_podcast_episode_1_final.mp3"
 full_episode_link: "https://open.spotify.com/show/6iR3Xetzgu8LVKjPEveetb"
 spotify_link: https://open.spotify.com/show/6iR3Xetzgu8LVKjPEveetb
 soundcloud_link: https://soundcloud.com/the-interstellar-podcast/ai-and-science-podcast?si=978d23eacb6f4fe99368617e5a0a37b0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
