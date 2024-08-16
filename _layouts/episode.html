@@ -56,21 +56,23 @@ layout: default
   <article class="post animate">
 
     <div class="audio-players-container">
-        <div class="preview-player">
-            <h3>Listen to a preview:</h3>
-            <audio controls>
-                <source src="{{ page.preview_audio | relative_url }}" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-        </div>
+        <div class="audio-players-row">
+            <div class="preview-player">
+                <h3>Listen to a preview:</h3>
+                <audio controls>
+                    <source src="{{ page.preview_audio | relative_url }}" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
+            </div>
 
-        <div class="full-episode-player">
-            <h3>Listen to the full episode:</h3>
-            <audio controls>
-                <source src="{{ page.full_audio | relative_url }}" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            <a href="{{ page.full_audio | relative_url }}" download class="download-link">Download Episode</a>
+            <div class="full-episode-player">
+                <h3>Listen to the full episode:</h3>
+                <audio controls>
+                    <source src="{{ page.full_audio | relative_url }}" type="audio/mpeg">
+                    Your browser does not support the audio element.
+                </audio>
+                <a href="{{ page.full_audio | relative_url }}" download class="download-link">Download Episode</a>
+            </div>
         </div>
     </div>
 
