@@ -17,14 +17,17 @@ Taken together, new research using data from NASA's Mars InSight lander finds co
 A team led by Dr. Vashan Wright of UC San Diego's Scripps Institution of Oceanography used InSight's seismic data to probe the interior of Mars. Using more than 1,300 marsquakes detected during the lander's mission, the researchers applied the technique of seismic tomography—like a CT scan for the planet—to determine composition in the crust and mantle of Mars. They found that this water probably lurks in cracks and pores within rocks 7–12 miles beneath the planet's surface.
 
 
-![Scientific diagram showing the Mars InSight lander](/images/Mars_blog_image_1.jpeg)
-*Artist's conception of a scientific diagram showing the Mars InSight lander on the surface, with seismic waves penetrating deep into the planet (Image credit: Author)*
+![Scientific diagram showing the Mars InSight lander](/images/mars.nasa_Insight_lander.webp)
+*Artist's Concept of InSight Lander on Mars: InSight was the first mission dedicated to investigating the deep interior of Mars. The findings advance understanding of how all rocky planets, including Earth, formed and evolved. (Image credit: NASA/JPL-Caltech)*
 
 "This discovery is a game-changer," Dr. Wright says. "It's like finding an oasis in what we thought was a desert planet. The presence of this much water could completely rewrite our understanding of Mars' geological and potentially biological history."
 
 Putting things in perspective, if the discoveries that will be made at the landing site of InSight near the Martian equator are representative of the entire planet, then there could be subsurface water enough to make up a global ocean of about a mile deep. Quite far from the dusty, arid world we have come to know through rover images and orbital observations.
 
 This helps set up an important milestone in the understanding of Mars' hydrological past. For decades, researchers have recognized that billions of years ago, Mars had an abundance of surface water—rivers, lakes, and possibly oceans. As many have concluded, much of this water was lost to space as the atmosphere grew thinner over time, or it became locked up in polar ice caps. Now, it appears that a significant amount might have trickled into the crust and been preserved in rocky interior material.
+
+![NASA's InSight lander set its heat probe, called the Heat and Physical Properties Package (HP3)](/images/Insight_lander.webp)
+*NASA's InSight lander set its heat probe, called the Heat and Physical Properties Package (HP3). (Image credit: NASA/JPL-Caltech)*
 
 The implications of this finding are profound. For astrobiologists, the presence of liquid water – even deep underground – raises tantalizing possibilities about the potential for microbial life on Mars. "There are environments that could possibly be habitable," says Dr. Wright—in other words, while this discovery doesn't really guarantee life, it at least makes a case for it.
 
