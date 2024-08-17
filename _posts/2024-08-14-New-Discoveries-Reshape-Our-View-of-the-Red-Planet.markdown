@@ -4,6 +4,7 @@ title: "Hidden Oasis on Mars: New Discoveries Reshape Red Planet Views"
 description: "Explore groundbreaking Mars discoveries revealing vast underground water reserves. Learn how these findings reshape our understanding of Mars' potential for life and future exploration."
 date: 2024-08-14 09:00:00 -0500
 image: '/images/Mars_blog_header.jpeg'
+blog_audio: "/audio/Water_on_Mars_Blog_audio.mp3"
 tags: [Mars, Water, Space Exploration, NASA]
 categories: [blog]
 ---
