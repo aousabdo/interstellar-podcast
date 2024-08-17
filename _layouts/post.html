@@ -57,19 +57,6 @@ layout: default
   </div>
 </div>
 
-<!-- Add blog audio player if blog_audio is available -->
-{% if page.blog_audio %}
-<div class="container">
-  <div class="blog-audio">
-    <h3>Listen to the blog post:</h3>
-    <audio controls>
-      <source src="{{ page.blog_audio | relative_url }}" type="audio/mpeg">
-      Your browser does not support the audio element.
-    </audio>
-  </div>
-</div>
-{% endif %}
-
 <!-- begin post -->
 <div class="container">
   <article class="post animate">
