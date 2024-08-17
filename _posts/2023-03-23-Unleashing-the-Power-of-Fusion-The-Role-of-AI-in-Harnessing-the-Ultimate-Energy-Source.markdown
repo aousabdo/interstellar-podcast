@@ -74,4 +74,4 @@ The next generation should wisely and with foresight harness both fusion and AI 
 **References:**
 
 * [DOE National Laboratory Makes History by Achieving Fusion Ignition](https://www.energy.gov/articles/doe-national-laboratory-makes-history-achieving-fusion-ignition){:target="_blank"}
-* [International Thermonuclear Experimental Reactor, ITER](https://www.iter.org/)
+* [International Thermonuclear Experimental Reactor, ITER](https://www.iter.org/){:target="_blank"}
