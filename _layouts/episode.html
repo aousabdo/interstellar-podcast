@@ -55,7 +55,7 @@ layout: default
 <div class="container">
   <article class="post animate">
     
-    {% if page.preview_audio %}
+    {% if page.preview_audio and page.full_audio %}
     <div class="audio-players-container">
         <div class="audio-players-row">
             <div class="preview-player">
@@ -76,7 +76,6 @@ layout: default
             </div>
         </div>
     </div>
-    {% endif %}
 
     <div class="cta-section">
         <h2>Or listen on your favorite platform:</h2>
@@ -92,6 +91,7 @@ layout: default
           </a>
         </div>
     </div>
+    {% endif %}
     
     <div class="post__content">
       {{ content }}

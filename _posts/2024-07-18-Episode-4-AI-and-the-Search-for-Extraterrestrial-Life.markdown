@@ -17,4 +17,4 @@ description: Uncover the cosmic quest for alien life, powered by AI. From decodi
 
 ---
 
-Coming Soon
+Coming Soon...
