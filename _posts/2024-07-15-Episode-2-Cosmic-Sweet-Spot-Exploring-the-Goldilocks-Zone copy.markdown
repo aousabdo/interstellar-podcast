@@ -19,4 +19,4 @@ description: Join me on this exciting episode of "Cosmic Sweet Spot Exploring th
 
 Coming Soon!
 
-
+{% include image-gallery.html folder="/images" %}
