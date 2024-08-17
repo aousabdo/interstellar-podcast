@@ -14,9 +14,8 @@ image:  '/images/Goldilocks_Zone.jpeg'
 tags:   [AI, Space, Life, NASA, Exoplanets]
 featured: true
 description: Join me on this exciting episode of "Cosmic Sweet Spot Exploring the Goldilocks Zone" as we delve into the fascinating world of the habitable zone around stars, where conditions are just right for life as we know it. Discover why Earth is perfectly positioned and explore the potential for life on other planets within this cosmic sweet spot
-
 ---
 
 Coming Soon!
 
-{% include image-gallery.html folder="/images" %}
+<!-- {% include image-gallery.html folder="/images" %} -->
