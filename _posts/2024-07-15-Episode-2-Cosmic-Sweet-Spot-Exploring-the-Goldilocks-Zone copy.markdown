@@ -3,7 +3,7 @@ layout: episode
 title:  'Episode 2: Cosmic Sweet Spot - Exploring the Goldilocks Zone (Interstellar Edition)'
 episode_number: 2
 duration: "coming soon"
-preview_audio: "/audio/episode-2-preview.mp3"
+# preview_audio: "/audio/episode-2-preview.mp3"
 full_episode_link: "https://open.spotify.com/show/6iR3Xetzgu8LVKjPEveetb"
 spotify_link: https://open.spotify.com/show/6iR3Xetzgu8LVKjPEveetb
 soundcloud_link: https://soundcloud.com/aous-abdo/ai-and-science-podcast?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&si=5dc39ba5b4eb480a90a42091b5bd346a

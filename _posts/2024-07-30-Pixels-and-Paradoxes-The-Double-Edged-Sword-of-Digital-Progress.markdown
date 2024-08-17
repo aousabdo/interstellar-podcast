@@ -3,6 +3,7 @@ layout: post
 title: "Digital Progress Paradox: Balancing Tech Advances and Human Well-being"
 description: "Uncover the dual impact of digital progress: economic solutions vs. psychological challenges. Learn strategies to thrive in our hyper-connected world."
 date: 2024-07-30 09:00:00 -0500
+blog_audio: "/audio/Blog_Audio_Digital_Progress_Paradox.mp3"
 image:  '/images/Pixels-and-Paradoxes_blog-header.webp'
 tags: [Digital Technology, Digital Wellbeing, AI Ethics]
 categories: [blog]
